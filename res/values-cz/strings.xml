@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Board Countdown Timer</string>
+    <string name="action_settings">Nastavení</string>
+    
+    <string name="add">Přidat</string>    
+    <string name="del">Smazat</string>
+    <string name="start">Spustit</string>
+    <string name="cancel">Zrušit</string>
+    
+    <string name="start_lector_name">Jméno přednášejícího</string>
+	<string name="start_theme_title">Název přednášky</string>
+	<string name="start_coundown_time">10</string>
+	
+    <string name="lector_name">Jméno přednášejícího</string>
+	<string name="theme_name">Název přednášky</string>
+	<string name="countdown_time">čas v min.</string>
+	
+	<string name="empty_board">Seznam nemůže být prázdný!</string>
+	<string name="empty_timer">Čas odpočítávání nemůže být prázdný!</string>
+	<string name="time_out">KONEC!</string>
+
+    <string name="desc_add_dialog">Přidat novou přednášku.</string>
+    <string name="desc_del_dialog">Smazat zvolenou přednášku.</string>
+    <string name="desc_start_dialog">Spustit odpočítávání zvolené přednášky.</string>
+    <string name="desc_cancel_dialog">Zrušit probíhající odpočítávání.</string>
+   
+</resources>

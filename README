@@ -1,0 +1,7 @@
+Description
+
+Application to measurement (countdown) time periods defined by the user. The aim of the application is to motivate users in the role of speakers, followed be a time limit for his lecture (presentation).
+features:
+- adding lectures (speaker name, title lectures, presentations length of time in minutes)
+- choice of any lecture from predefined lectures
+- start/cancel countdown of lectures
